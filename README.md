@@ -17,3 +17,8 @@ Shows information for a wide range of motorsport disciplines.
 - Information about participants
 - Placings of previous events
 - Maybe more.
+
+## Thanks very much to these people for making this project possible:
+### Formula 1
+Assets - [mark-boots/f1-2026-assets](https://github.com/mark-boots/f1-2026-assets)
+Past Stats / Live data - [br-g/openf1](https://github.com/br-g/openf1)
