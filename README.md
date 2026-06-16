@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/devster3000/Assets/blob/main/pole-app/pole-icon.png" 
+  <img src="https://github.com/devster3000/assets-drive/blob/main/pole-app/logo/pole-icon.png" 
        width="300"
        height="300"
        style="border-radius: 15px;" />
