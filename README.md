@@ -19,6 +19,9 @@ Shows information for a wide range of motorsport disciplines.
 - Maybe more.
 
 ## Thanks very much to these people for making this project possible
+
+- Assets - [LigasAVBrasil/RaceTracksAPI](https://github.com/LigasAVBrasil/RaceTracksAPI)
+
 ### Formula 1
 - Assets - [mark-boots/f1-2026-assets](https://github.com/mark-boots/f1-2026-assets)
 - Past Stats / Live data - [br-g/openf1](https://github.com/br-g/openf1)
